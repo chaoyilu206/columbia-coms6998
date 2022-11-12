@@ -1,2 +1,2 @@
 # columbia-coms6998
-Project for COMSE6998 Coursework at Columbia University
+Assignment 2 Front-end for COMSE6998 Coursework at Columbia University
